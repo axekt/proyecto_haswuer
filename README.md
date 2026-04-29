@@ -18,3 +18,7 @@
 
 
 # En EL VSPE se debe tener el pair com1 y com2 andando previamente.
+
+
+# se debe descargar audacity para el ej 4 (Desde la pagina web
+)
