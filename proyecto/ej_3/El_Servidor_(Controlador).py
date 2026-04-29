@@ -39,12 +39,12 @@ try:
                 press_key(win32con.VK_LEFT)
 
             elif comando == "volup":
-                # F12 no escribe texto en la terminal
-                press_key(win32con.VK_F12)
+                # F8 no escribe texto en la terminal
+                press_key(win32con.VK_F8)
 
             elif comando == "voldown":
-                # F10 no escribe texto en la terminal
-                press_key(win32con.VK_F10)
+                # F9 no escribe texto en la terminal
+                press_key(win32con.VK_F9)
             
             elif comando == "stop":
                 # VK_DELETE es la tecla suprimir (como tienes en tu captura)
